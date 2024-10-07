@@ -1,0 +1,8 @@
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\bin\Debug\guia5 ej1.exe.config
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\bin\Debug\guia5 ej1.exe
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\bin\Debug\guia5 ej1.pdb
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\obj\Debug\guia5 ej1.csproj.AssemblyReference.cache
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\obj\Debug\guia5 ej1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\obj\Debug\guia5 ej1.csproj.CoreCompileInputs.cache
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\obj\Debug\guia5 ej1.exe
+C:\Users\Leo Chaparro\source\repos\guia5 ej1\guia5 ej1\obj\Debug\guia5 ej1.pdb
